@@ -1,0 +1,12 @@
+/Users/renasmehmetsari/Projects/OblOpg1/bin/Debug/net6.0/OblOpg1.deps.json
+/Users/renasmehmetsari/Projects/OblOpg1/bin/Debug/net6.0/OblOpg1.dll
+/Users/renasmehmetsari/Projects/OblOpg1/bin/Debug/net6.0/OblOpg1.pdb
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.csproj.AssemblyReference.cache
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.AssemblyInfoInputs.cache
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.AssemblyInfo.cs
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.csproj.CoreCompileInputs.cache
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.dll
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/refint/OblOpg1.dll
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/OblOpg1.pdb
+/Users/renasmehmetsari/Projects/OblOpg1/obj/Debug/net6.0/ref/OblOpg1.dll
